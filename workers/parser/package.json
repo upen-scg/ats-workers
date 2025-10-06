@@ -1,0 +1,12 @@
+{
+  "name": "@ats/parser-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.0",
+    "node-fetch": "^3.3.2"
+  }
+}
